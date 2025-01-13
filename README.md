@@ -19,3 +19,8 @@ Dann muss die apkg-Datei von GitHub heruntergeladen werden.
 Entweder kann das ganze Repository als zip heruntergeladen werden indem auf den grünen Code-Button oben geclickt wird oder indem das Repository via git geklont wird (mittels ssh oder https).
 
 Letztlich kann die apkg-Datei dann im Anki-Client importiert werden.
+
+## Updates
+Wenn die apkg-Datei aktualisiert wird muss diese erneut heruntergeladen werden.  
+Dabei sollten bereits gelernte Karten nicht überschrieben werden und lediglich Änderungen und neue Karten importiert werden.  
+Wann die Datei zuletzt auf GitHub aktualisiert wird wird in der Dateiliste ganz oben angezeigt.
