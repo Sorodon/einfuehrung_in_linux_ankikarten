@@ -8,7 +8,8 @@ Feedback oder Änderungen können gerne via Issues oder PRs gegeben werden.
 > Die Karten wurden mit Sorgfalt erstellt, ich gebe jedoch selbstverständlich keine Garantie für die Richtigkeit dieser Karten.
 
 > [!IMPORTANT]
-> Das Kartenset deckt bisher noch nicht die ganze Vorlesung ab. Ich plane dies in den kommenden Tagen zu ändern und das Set dann hier entsprechend zu aktualisieren.
+> Das Kartenset deckt bisher noch nicht die ganze Vorlesung ab.  
+> Ich plane dies in den kommenden Tagen zu ändern und das Set dann hier entsprechend zu aktualisieren.  
 > Aktueller Stand: Folie 640/790 (Kapitel I - V)
 
 ## Installation
