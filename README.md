@@ -9,7 +9,7 @@ Feedback oder Änderungen können gerne via Issues oder PRs gegeben werden.
 
 > [!IMPORTANT]
 > Das Kartenset deckt bisher noch nicht die ganze Vorlesung ab. Ich plane dies in den kommenden Tagen zu ändern und das Set dann hier entsprechend zu aktualisieren.
-> Aktueller Stand: Folie 508/790 (Kapitel I - IV)
+> Aktueller Stand: Folie 640/790 (Kapitel I - V)
 
 ## Installation
 Zunächst muss Anki installiert werden.  
